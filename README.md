@@ -71,6 +71,7 @@ Sample inputs → outputs to guide behavior.
 - [Example: Completed Skill](examples/commit-message/SKILL.md)
 - [Tips & Best Practices](docs/BEST-PRACTICES.md)
 - [Skills vs Commands vs Agents](docs/CONCEPTS.md) ← When to use each
+- [External Resources & Links](docs/RESOURCES.md) ← Official docs, communities, tutorials
 
 ## Self-Paced Learning
 
