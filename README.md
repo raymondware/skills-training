@@ -70,6 +70,17 @@ Sample inputs → outputs to guide behavior.
 - [Skill Template](templates/SKILL-TEMPLATE.md)
 - [Example: Completed Skill](examples/commit-message/SKILL.md)
 - [Tips & Best Practices](docs/BEST-PRACTICES.md)
+- [Skills vs Commands vs Agents](docs/CONCEPTS.md) ← When to use each
+
+## Self-Paced Learning
+
+Each exercise includes a `WALKTHROUGH.md` with step-by-step guidance:
+- Timed checkpoints
+- Copy-paste code blocks
+- Test cases to verify your skill works
+- Tips and hints throughout
+
+Perfect for async learning or workshop prep.
 
 ## After the Workshop
 
