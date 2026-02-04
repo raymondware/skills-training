@@ -75,8 +75,9 @@ Sample inputs → outputs to guide behavior.
 
 Take your skills back to your projects! Skills can be:
 - Project-specific (in your repo)
+- Global (claude config)
+- Claude desktop or web
 - Team-shared (in a shared skills repo)
-- Published to [ClawdHub](https://clawdhub.com) for the community
 
 ---
 
