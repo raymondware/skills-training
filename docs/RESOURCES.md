@@ -62,7 +62,6 @@ Curated links to level up your skill-building game.
 - Search GitHub for `SKILL.md` to find real-world examples
 
 ### Agent Frameworks
-- **[Clawdbot](https://github.com/clawdbot/clawdbot)** — Multi-channel Claude agent
 - **[Claude Engineer](https://github.com/Doriandarko/claude-engineer)** — Agentic coding patterns
 
 ---

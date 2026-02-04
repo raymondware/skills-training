@@ -138,7 +138,7 @@ As you improve skills, track what changed:
 
 - Review other skills for patterns
 - Share what works with your team
-- Publish useful skills to ClawdHub
+- Publish useful skills to the community
 
 ---
 
